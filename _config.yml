@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 一名合格的学术打工人🤣🤣🤣
+title: 一名合格的学术打工人🤣
 subtitle:
 description:
 keywords:
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://chiyeung.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

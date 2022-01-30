@@ -23,3 +23,6 @@ hexo n page categories 添加source\categories\index.md
 选择social
 选择avatar
 reward打赏
+links友情链接
+
+hexo n 打工人

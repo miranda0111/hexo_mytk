@@ -18,24 +18,25 @@ categories: 脚本
 - [server酱](https://sct.ftqq.com/)
 
 ### 食用方法
-1. 打开[GitHub官网](https://github.com) ，注册一个GitHub账号，按照提示完成注册![Alt Text](https://ae02.alicdn.com/kf/Ha9b2f3c156bb4a5ba8e2d8b0c14d3226a.png) 
+1. 打开[GitHub官网](https://github.com) ，注册一个GitHub账号，按照提示完成注册
+   ![Alt Text](https://ae02.alicdn.com/kf/Ha9b2f3c156bb4a5ba8e2d8b0c14d3226a.png) 
 
-1. 打开[DGUT_Auto_Report脚本仓库](https://github.com/Bertramoon/DGUT_Auto_Report)，点击`Star`&`Fork`
+2. 打开[DGUT_Auto_Report脚本仓库](https://github.com/Bertramoon/DGUT_Auto_Report)，点击`Star`&`Fork`
    ![Alt Text](https://ae04.alicdn.com/kf/H1fe9df80a4ff4fd09408a3e5f665a711E.png)
 
-1. 打开[server酱官网](https://sct.ftqq.com/)，登入
+3. 打开[server酱官网](https://sct.ftqq.com/)，登入
    ![Alt Text](https://ae05.alicdn.com/kf/Ha414f9f751a148219aaae424d7b664fcG.png) 
    记录你的sendkey
    ![Alt Text](https://ae03.alicdn.com/kf/H87f5f0a1c06942699e5a27b0919baab2v.png) 
     点击上方`消息通道`可以选择以下这些作为打卡成功的通知渠道，个人推荐使用`方糖服务号（即微信公众号）`
    ![Alt Text](https://ae01.alicdn.com/kf/H186ecd73a2854439ad2fba24194eee1a2.png) 
 
-1. 添加环境变量配置：回到仓库点击`Settings`=>`Secrets`=>`Actions`然后点击`New repository secrets`在里面里面添加3个环境变量
+4. 添加环境变量配置：回到仓库点击`Settings`=>`Secrets`=>`Actions`然后点击`New repository secrets`在里面里面添加3个环境变量
     ![Alt Text](https://ae05.alicdn.com/kf/Hbbb7056184d14ad2a84533646830b715O.png)
     
     ***
     ![Alt Text](https://ae01.alicdn.com/kf/Hc0b81c919df34e6fab54161a96b9e472I.png)
- 1. 环境变量示例
+5. 环境变量示例
 
  |   | Name | Value |
  | - | - | - |
@@ -52,7 +53,7 @@ categories: 脚本
 
 1. 点击`Actions`=>`Enable workflows`=> “莞工防控疫情打卡”，在右边找到`run workflows`即可
 ![微信图片_20210701112955.png](https://i.loli.net/2021/07/05/HVXImoLlkNyu6Mr.png)
-1. 然后star ⭐星标本仓库（自己的）即可运行或者修改一下`README.md`文件的内容，然后就能自动运行一次
+2. 然后star ⭐星标本仓库（自己的）即可运行或者修改一下`README.md`文件的内容，然后就能自动运行一次
 ![Alt Text](https://ae02.alicdn.com/kf/Hde2a1891204c4caf8371ac28a9915dc5E.png)
 
 ### 修改打卡时间

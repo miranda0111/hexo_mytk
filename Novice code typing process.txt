@@ -15,15 +15,10 @@ try：原因是hexo在5.0之后把swig给删除了需要自己手动安装 npm i
 
 _config.yml设置language：zh-CN
 
-themes\next\_config.yml 修改menu 添加tag
+themes\next\_config.yml 
+修改menu 添加tag
 hexo n page tags 添加source\tags title: 标签 date: 2022-1-30 14:20:13 type: "tags"
-
 hexo n page categories 添加source\categories\index.md
-
-选择 Scheme  themes\next\_config.yml
-Scheme 是 NexT 提供的一种特性，借助于 Scheme，NexT 为你提供多种不同的外观。同时，几乎所有的配置都可以 在 Scheme 之间共用。目前 NexT 支持三种 Scheme，他们是：
-Muse - 默认 Scheme，这是 NexT 最初的版本，黑白主调，大量留白
-Mist - Muse 的紧凑版本，整洁有序的单栏外观
-Pisces - 双栏 Scheme，小家碧玉似的清新
-Scheme 的切换通过更改 主题配置文件，搜索 scheme 关键字。 你会看到有三行 scheme 的配置，将你需用启用的 scheme 前面注释 # 去除即可。
-
+选择 Scheme  
+选择social
+选择avatar

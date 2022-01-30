@@ -34,7 +34,8 @@ categories: 脚本
 4. 添加环境变量配置：回到仓库点击`Settings`=>`Secrets`=>`Actions`然后点击`New repository secrets`在里面里面添加3个环境变量
     ![Alt Text](https://ae05.alicdn.com/kf/Hbbb7056184d14ad2a84533646830b715O.png)
     
-    ***
+    ---
+
     ![Alt Text](https://ae01.alicdn.com/kf/Hc0b81c919df34e6fab54161a96b9e472I.png)
 5. 环境变量示例
 

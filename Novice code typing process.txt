@@ -1,0 +1,6 @@
+建站：https://vercel.com/login?next=%2Fdashboard  
+GitHub登录
+hexo项目，Building
+域名绑定DOMAINS www.mimiranda.tkhexo-mytk.vercel.app
+cloudfare代理：https://dash.cloudflare.com/login 	CNAME www cname.vercel-dns.com 规则 *mimiranda.tk/.well-known/* SSL 关
+下载next主题：

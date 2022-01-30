@@ -7,15 +7,6 @@ categories: 脚本
 ---
 
 ## 东莞理工学院疫情打卡脚本 
-<!-- <p align="center">
- <h1 align="center">东莞理工学院疫情打卡脚本</h1>
- <p align="center">访问超时的，联系QQ：591944012，发账号密码和server酱的key，批量打卡</p>
-</p>
-   
-<p align="center">感谢你的<a href="">捐赠❤</a>来帮助它完善！
-<br />
-<h3 align="center">默默关注也是鼓励的话，希望你能在右上角给颗⭐！你的支持是我最大的动力😎！</h3> -->
-
 
 ### 免责申明🤣
     

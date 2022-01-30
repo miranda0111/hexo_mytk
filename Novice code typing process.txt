@@ -15,4 +15,4 @@ try：原因是hexo在5.0之后把swig给删除了需要自己手动安装 npm i
 
 设置language：zh-CN
 themes\next\_config.yml 修改menu 添加tag
-hexo n page tags 添加source\tags 
+hexo n page tags 添加source\tags title: 标签 date: 2022-1-30 14:20:13 type: "tags"

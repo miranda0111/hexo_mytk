@@ -26,3 +26,4 @@ Muse - 默认 Scheme，这是 NexT 最初的版本，黑白主调，大量留白
 Mist - Muse 的紧凑版本，整洁有序的单栏外观
 Pisces - 双栏 Scheme，小家碧玉似的清新
 Scheme 的切换通过更改 主题配置文件，搜索 scheme 关键字。 你会看到有三行 scheme 的配置，将你需用启用的 scheme 前面注释 # 去除即可。
+

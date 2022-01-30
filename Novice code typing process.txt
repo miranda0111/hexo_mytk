@@ -3,4 +3,12 @@ GitHub登录
 hexo项目，Building
 域名绑定DOMAINS www.mimiranda.tkhexo-mytk.vercel.app
 cloudfare代理：https://dash.cloudflare.com/login 	CNAME www cname.vercel-dns.com 规则 *mimiranda.tk/.well-known/* SSL 关
-下载next主题：
+下载next主题：https://github.com/theme-next/hexo-theme-next 
+
+遇到页面error
+
+{% extends '_layout.swig' %} {% import '_macro/post.swig' as post_template %} {% import '_macro/sidebar.swig' as sidebar_template %} {% block title %}{{ config.title }}{% if theme.index_with_subtitle and config.subtitle %} - {{config.subtitle }}{% endif %}{% endblock %} {% block page_class %} {% if is_home() %}page-home{% endif -%} {% endblock %} {% block content %}
+{% for post in page.posts %} {{ post_template.render(post, true) }} {% endfor %}
+{% include '_partials/pagination.swig' %} {% endblock %} {% block sidebar %} {{ sidebar_template.render(false) }} {% endblock %}
+
+try：原因是hexo在5.0之后把swig给删除了需要自己手动安装 npm i hexo-renderer-swig 然后hexo c清理缓存，hexo g & s 即可！

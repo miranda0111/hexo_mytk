@@ -1,6 +1,4 @@
 ---
-title:
-  '[object Object]': null
-date:
-  '[object Object]': null
+title: 标签
+date: 2022年1月30日 14点18分
 ---

@@ -14,3 +14,4 @@ next使用文档：https://theme-next.iissnan.com/
 try：原因是hexo在5.0之后把swig给删除了需要自己手动安装 npm i hexo-renderer-swig 然后hexo c清理缓存，hexo g & s 即可！
 
 设置language：zh-CN
+hexo_mytk\themes\next\_config.yml 修改menu 添加tag

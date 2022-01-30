@@ -22,3 +22,4 @@ hexo n page categories 添加source\categories\index.md
 选择 Scheme  
 选择social
 选择avatar
+reward打赏

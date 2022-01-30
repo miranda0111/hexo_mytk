@@ -262,8 +262,8 @@ reward_settings:
   comment: 心中有佛，怕渠碌柒
 
 reward:
-  wechatpay: https://ae05.alicdn.com/kf/H60cfebc120704d57919ecd8f6d65b652J.png #/images/wechatpay.png
-  alipay: https://ae04.alicdn.com/kf/H0d0a29edb6b242cd9336e9352ad53e1at.png  #/images/alipay.png
+  wechatpay: https://ae03.alicdn.com/kf/Hcf7077010cb94d81b340d00881f4fb0fh.png #/images/wechatpay.png
+  alipay: https://ae04.alicdn.com/kf/H018d1046dad1409bb449268971e06822j.png  #/images/alipay.png
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
 

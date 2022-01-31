@@ -178,11 +178,11 @@ anchor: false
 
 # toc (目錄)
 toc:
-  post: true
-  page: true
-  number: true
-  expand: true
-  style_simple: true # for post
+  post: false
+  page: false
+  number: false
+  expand: false
+  style_simple: false # for post
 
 post_copyright:
   enable: true

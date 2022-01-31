@@ -821,7 +821,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <link rel="bilibili" href="//at.alicdn.com/t/font_3167328_21phwq5130t.css">
+    - <link rel="stylesheet" href="//at.alicdn.com/t/font_3167328_21phwq5130t.css">
     # - <link rel="stylesheet" href="/xxx.css">
     
   bottom:

@@ -1,0 +1,23 @@
+- class_name: 友情链接
+  class_desc: 分享
+  link_list:
+    - name: 阿虚同学的储物间
+      link: https://axutongxue.com/
+      avatar: https://ae02.alicdn.com/kf/H384e1cd93bf34a29958bd7051ab17105n.png
+      descr: 阿虚同学内容很多
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 中国最大社交分享平臺
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平臺

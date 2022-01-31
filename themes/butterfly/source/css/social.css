@@ -15,6 +15,10 @@
 
 .icon-github:before {
   content: "\ead8";
+  /* 修改颜色 */
+ /* color: blue;*/
+  /* 修改大小 */
+  font-size: 28px;
 }
 
 .icon-email:before {

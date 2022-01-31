@@ -38,7 +38,7 @@ copy:
 social:
    fab fa-github: https://github.com/miranda0111 || Github
    fas fa-envelope: 591944012@qq.com || Email
-   fa-bilibili: https://space.bilibili.com/398055394?spm_id_from=333.1007.0.0 || bilibili
+   iconfont  icon-icon_bilibili: https://space.bilibili.com/398055394?spm_id_from=333.1007.0.0 || bilibili
 ###https://fontawesome.com/找寻图标
 # search (搜索)
 # --------------------------------------
@@ -821,7 +821,8 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <link rel="stylesheet" href="//at.alicdn.com/t/font_3167328_21phwq5130t.css">
+    - <link rel="stylesheet" href="/css/bilibili_icon.css">
+   # - <link rel="stylesheet" href="//at.alicdn.com/t/font_3167328_21phwq5130t.css">
     # - <link rel="stylesheet" href="/xxx.css">
     
   bottom:

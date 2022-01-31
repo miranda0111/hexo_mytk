@@ -1,9 +1,10 @@
 ---
 title: 东莞理工学院-疫情打卡-脚本及使用方法分享
 date: 2022-01-30 20:16:51
+updated: 2022-01-30 20:16:51
 tags: DGUT疫情打卡
 categories: 脚本
-description: 使用Github Actions进行自动打卡并提交
+description: 使用Github Actions进行自动打卡并提交，如果不会弄可以联系我哦😎
 top_img: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 cover: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 sticky: 1

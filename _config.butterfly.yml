@@ -18,7 +18,7 @@ menu:
 
 highlight_theme: pale night #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
-highlight_lang: true # show the code language
+highlight_lang: false # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
 highlight_height_limit: false # unit: px
 code_word_wrap: false
@@ -35,8 +35,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+   fab fa-github: https://github.com/miranda0111 || Github1
+   fas fa-envelope: 591944012@qq.com || Email
 
 # search (搜索)
 # --------------------------------------

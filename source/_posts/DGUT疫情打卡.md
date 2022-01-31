@@ -8,6 +8,7 @@ description: 使用Github Actions进行自动打卡并提交，如果不会弄�
 top_img: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 cover: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 sticky: 1
+copyright: true
 ---
 
 ## 免责申明

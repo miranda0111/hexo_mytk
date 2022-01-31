@@ -194,12 +194,12 @@ post_copyright:
 reward:
   enable: false
   QR_code:
-    # - img: /img/wechat.jpg
-    #   link:
-    #   text: wechat
-    # - img: /img/alipay.jpg
-    #   link:
-    #   text: alipay
+     - img: /img/wechat.jpg
+       link: https://ae03.alicdn.com/kf/H942d0e7bb0c54813a4d4a93680b5af0dS.png
+       text: wechat
+     - img: /img/alipay.jpg
+       link: https://ae04.alicdn.com/kf/He69ae7a12f304e7887ba44e0072aeb2e1.png
+       text: alipay
 
 # Post edit
 # Easily browse and edit blog source code online.

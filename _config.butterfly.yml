@@ -229,7 +229,7 @@ post_pagination: 2
 noticeOutdate:
   enable: true
   style: flat # style: simple/flat
-  limit_day: 1500 # When will it be shown
+  limit_day: 1 # When will it be shown
   position: top # position: top/bottom
   message_prev: It has been
   message_next: days since the last update, the content of the article may be outdated.

@@ -35,8 +35,9 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-   fab fa-github: https://github.com/miranda0111 || Github1
+   fab fa-github: https://github.com/miranda0111 || Github
    fas fa-envelope: 591944012@qq.com || Email
+   fa-brands fa-bilibili : https://space.bilibili.com/398055394?spm_id_from=333.1007.0.0 || bilibili
 
 # search (搜索)
 # --------------------------------------

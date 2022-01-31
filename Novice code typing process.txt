@@ -25,4 +25,6 @@ hexo n page categories 添加source\categories\index.md
 reward打赏
 links友情链接
 
-hexo n 打工人
+hexo n 打工人  新建文章
+
+更换butterfly  如果你沒有pug以及stylus的渲染器，請下載安裝： npm install hexo-renderer-pug hexo-renderer-stylus --save

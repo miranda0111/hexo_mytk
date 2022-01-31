@@ -90,7 +90,7 @@ disable_top_img: false
 
 # The banner image of home page
 index_img:
-  dgut: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
+#  dgut: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:

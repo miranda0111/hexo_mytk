@@ -36,7 +36,8 @@ cover: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
  |2| `PASSWORD` | 密码 |
  |3| `SERVER_KEY`| -K SCT10*80T2xdNVRuTk*****cMmKQgWaJE |
  |4| `PAT`      | PAT申请的key（用于同步，最后补充） |
- （注意，sendkey前需要加上-K）
+
+- （注意，sendkey前需要加上-K）
 
 >例子![Alt Text](https://ae01.alicdn.com/kf/H70eafc7e5bc2421c92749915f9878313e.png)
 

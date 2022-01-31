@@ -18,7 +18,8 @@
     "hexo-renderer-swig": "^1.1.0",
     "hexo-server": "^2.0.0",
     "hexo-toc": "^1.1.0",
-    "hexo-wordcount": "^6.0.1"
+    "hexo-wordcount": "^6.0.1",
+    "node-snackbar": "^0.1.16"
   },
   "scripts": {
     "dev": "hexo server -p $PORT",

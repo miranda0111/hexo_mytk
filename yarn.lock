@@ -1526,6 +1526,11 @@
     "lower-case" "^2.0.2"
     "tslib" "^2.0.3"
 
+"node-snackbar@^0.1.16":
+  "integrity" "sha512-3s43QMKgABXdnqUfpKAXG+WlvS8bbuO6n6LAOmmLNZs87CGdpexqfGYCktFVi9NHFgREwNJARgeVTLOFAf2MQg=="
+  "resolved" "https://registry.npmjs.org/node-snackbar/-/node-snackbar-0.1.16.tgz"
+  "version" "0.1.16"
+
 "nopt@~2.1.1":
   "integrity" "sha1-bMzZd7gBMqB3MdbozljCyDA8+a8="
   "resolved" "https://registry.npmjs.org/nopt/-/nopt-2.1.2.tgz"

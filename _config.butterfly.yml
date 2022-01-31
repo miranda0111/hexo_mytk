@@ -780,7 +780,7 @@ aplayerInject:
 # 可選 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
 snackbar:
   enable: true
-  position: bottom-center
+  position: bottom-right
   bg_light: '#49b1f5' # The background color of Toast Notification in light mode
   bg_dark: '#121212' # The background color of Toast Notification in dark mode
 

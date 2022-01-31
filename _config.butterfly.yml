@@ -36,8 +36,8 @@ copy:
  #  icon: link || the description
   # fa-brands fa-bilibili:
 social:
-   iconfont  icon-socialgithuboutline: https://github.com/miranda0111 || Github
    iconfont  icon-email: 591944012@qq.com || Email
+   iconfont  icon-socialgithuboutline: https://github.com/miranda0111 || Github
    iconfont  icon-icon_bilibili: https://space.bilibili.com/398055394?spm_id_from=333.1007.0.0 || bilibili
 ###https://fontawesome.com/找寻图标
 #https://blog.csdn.net/u012208219/article/details/106883012/

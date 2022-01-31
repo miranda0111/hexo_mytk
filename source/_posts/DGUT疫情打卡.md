@@ -9,6 +9,8 @@ keywords:
 top_img: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 cover: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 sticky: 1
+toc: true
+toc_number: 
 toc_style_simple: 
 copyright: true
 copyright_author:

@@ -363,8 +363,8 @@ document.addEventListener('DOMContentLoaded', function () {
         e.preventDefault()
         const $target = e.target.classList.contains('toc-link')
           ? e.target
-          : e.target.parentElement                         //decodeURI
-        btf.scrollToDest(btf.getEleTop(document.getElementById(($target.getAttribute('href')).replace('#', ''))), 300)
+          : e.target.parentElement
+        btf.scrollToDest(btf.getEleTop(document.getElementById(decodeURI($target.getAttribute('href')).replace('#', ''))), 300)
         if (window.innerWidth < 900) {
           window.mobileToc.close()
         }

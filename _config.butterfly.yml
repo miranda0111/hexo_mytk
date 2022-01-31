@@ -181,8 +181,8 @@ toc:
   post: true
   page: false
   number: true
-  expand: false
-  style_simple: false # for post
+  expand: true
+  style_simple: true # for post
 
 post_copyright:
   enable: true

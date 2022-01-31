@@ -5,10 +5,23 @@ updated: 2022-01-30 20:16:51
 tags: DGUT疫情打卡
 categories: 脚本
 description: 使用Github Actions进行自动打卡并提交，如果不会弄可以联系我哦😎
+keywords:
 top_img: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 cover: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 sticky: 1
+toc: 
+toc_number: 
+toc_style_simple: 
 copyright: true
+copyright_author:
+copyright_author_href:
+copyright_url:
+copyright_info:
+mathjax:
+katex:
+aplayer:
+highlight_shrink:
+aside:
 ---
 
 ## 免责申明

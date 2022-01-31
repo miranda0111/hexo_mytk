@@ -715,9 +715,9 @@ darkmode:
 # Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
 # Don't repeat 不要重複
 rightside_item_order:
-  enable: false
-  hide: # readmode,translate,darkmode,hideAside
-  show: # toc,chat,comment
+  enable: true
+  hide:  translate,toc,chat,comment
+  show:  readmode,darkmode,hideAside
 
 # Lightbox (圖片大圖查看模式)
 # --------------------------------------

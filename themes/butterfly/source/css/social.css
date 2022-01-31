@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3167328 */
-  src: url('//at.alicdn.com/t/font_3167328_dgba34qymc6.woff2?t=1643607448007') format('woff2'),
-       url('//at.alicdn.com/t/font_3167328_dgba34qymc6.woff?t=1643607448007') format('woff'),
-       url('//at.alicdn.com/t/font_3167328_dgba34qymc6.ttf?t=1643607448007') format('truetype');
+  src: url('//at.alicdn.com/t/font_3167328_tfa9cf31ek8.woff2?t=1643610393068') format('woff2'),
+       url('//at.alicdn.com/t/font_3167328_tfa9cf31ek8.woff?t=1643610393068') format('woff'),
+       url('//at.alicdn.com/t/font_3167328_tfa9cf31ek8.ttf?t=1643610393068') format('truetype');
 }
 
 .iconfont {
@@ -13,12 +13,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-github:before {
-  content: "\ead8";
+.icon-socialgithuboutline:before {
+  content: "\e8fd";
   /* 修改颜色 */
  /* color: blue;*/
   /* 修改大小 */
-  font-size: 28px;
+  font-size: 26px;
 }
 
 .icon-email:before {

@@ -29,3 +29,6 @@ hexo n 打工人  新建文章
 
 更换butterfly  如果你沒有pug以及stylus的渲染器，請下載安裝： npm install hexo-renderer-pug hexo-renderer-stylus --save
 创建友情链接页面前往你的 Hexo 博客的根目输入 hexo new page link   source\_data\link.yml更换
+
+
+注入图标：https://butterfly.js.org/posts/4073eda/#Icon

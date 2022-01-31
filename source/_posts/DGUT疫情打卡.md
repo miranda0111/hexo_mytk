@@ -9,8 +9,6 @@ keywords:
 top_img: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 cover: https://ae05.alicdn.com/kf/Hc3a360457f634f78b10b56e7a1d73846P.png
 sticky: 1
-toc: true      
-toc_number: true
 toc_style_simple: 
 copyright: true
 copyright_author:
@@ -29,7 +27,7 @@ aside:
 
 <!-- code_chunk_output -->
 
-- [免责申明](#免责申明)
+- [1.免责申明](#1免责申明)
 - [准备材料](#准备材料)
 - [食用方法](#食用方法)
 - [手动运行一次](#手动运行一次)
@@ -39,7 +37,7 @@ aside:
 
 <!-- /code_chunk_output -->
 
-## 免责申明
+## 1.免责申明
     
 - 该教程仅供学习使用，严禁用于商业用途，由此造成的一切后果，本人概不负责。
 

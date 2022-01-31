@@ -130,7 +130,7 @@ error_img:
 # A simple 404 page
 error_404:
   enable: true
-  subtitle: 'Page Not Found'
+  subtitle: "页面丢失了啊😂"
   background: https://ae02.alicdn.com/kf/Hf65ef67088604b60bb69e2535e9b4b98U.png
 
 post_meta:

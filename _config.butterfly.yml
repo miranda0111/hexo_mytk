@@ -192,7 +192,7 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
      - img: /img/wechat.jpg
        link: https://ae03.alicdn.com/kf/H942d0e7bb0c54813a4d4a93680b5af0dS.png

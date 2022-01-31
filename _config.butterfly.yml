@@ -687,7 +687,7 @@ newest_comments:
 translate:
   enable: true
   # The text of a button
-  default: 簡
+  default: 简
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay

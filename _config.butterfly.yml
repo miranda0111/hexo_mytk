@@ -33,11 +33,12 @@ copy:
 
 # social settings (社交圖標設置)
 # formal:
-#   icon: link || the description
+ #  icon: link || the description
+  # fa-brands fa-bilibili:
 social:
    fab fa-github: https://github.com/miranda0111 || Github
    fas fa-envelope: 591944012@qq.com || Email
-   fas fa-bilibili: https://space.bilibili.com/398055394?spm_id_from=333.1007.0.0 || bilibili
+   fa fa-bilibili: https://space.bilibili.com/398055394?spm_id_from=333.1007.0.0 || bilibili
 ###https://fontawesome.com/找寻图标
 # search (搜索)
 # --------------------------------------
@@ -622,7 +623,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/mimiranda
   card_announcement:
     enable: true
     content: This is my Blog

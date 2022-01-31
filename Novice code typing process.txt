@@ -33,3 +33,7 @@ https://butterfly.js.org/
 
 注入图标：https://butterfly.js.org/posts/4073eda/#Icon
 
+butterfly主题内置了toc插件，要卸载原来安装的hexo-toc才能使用 npm uninstall hexo-toc
+npm install hexo-toc --save
+
+

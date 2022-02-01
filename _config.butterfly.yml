@@ -610,7 +610,7 @@ subtitle:
     - 加油🦾🦾🦾
 
 # Loading Animation (加載動畫)
-preloader: false
+preloader: true
 
 # aside (側邊欄)
 # --------------------------------------

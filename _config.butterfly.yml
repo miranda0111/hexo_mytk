@@ -89,7 +89,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: #'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
+index_img: 'linear-gradient(20deg, #fb0347, #cc426e, #925696, #0062be)'
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:

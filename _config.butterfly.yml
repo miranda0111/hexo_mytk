@@ -607,7 +607,7 @@ subtitle:
   source: 3
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - 加油，加油，加油！
+    # - 加油，加油，加油！
 
 # Loading Animation (加載動畫)
 preloader: true

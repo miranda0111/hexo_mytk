@@ -194,10 +194,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-     - img: https://ae03.alicdn.com/kf/H942d0e7bb0c54813a4d4a93680b5af0dS.png #/img/wechat.jpg
+     - img:  https://ae04.alicdn.com/kf/He69ae7a12f304e7887ba44e0072aeb2e1.png #/img/wechat.jpg
        link: #https://ae03.alicdn.com/kf/H942d0e7bb0c54813a4d4a93680b5af0dS.png
        text: wechat
-     - img: https://ae04.alicdn.com/kf/He69ae7a12f304e7887ba44e0072aeb2e1.png #/img/alipay.jpg
+     - img: https://ae03.alicdn.com/kf/H942d0e7bb0c54813a4d4a93680b5af0dS.png  #/img/alipay.jpg
        link: 
        text: alipay
 
@@ -567,7 +567,7 @@ display_mode: light
 # Beautify (美化頁面顯示)
 beautify:
   enable: true
-  field: post # site/post
+  field: site # site/post
   title-prefix-icon: # '\f0c1'
   title-prefix-icon-color: # '#F47466'
 

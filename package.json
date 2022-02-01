@@ -24,6 +24,7 @@
     "live2d-widget-model-miku": "^1.0.5",
     "live2d-widget-model-shizuku": "^1.0.5",
     "live2d-widget-model-tororo": "^1.0.5",
+    "live2d-widget-model-wanko": "^1.0.5",
     "markdown-it-named-headings": "^1.1.0",
     "node-snackbar": "^0.1.16"
   },

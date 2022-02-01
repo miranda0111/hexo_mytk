@@ -106,8 +106,8 @@ live2d:
     show: true # 手机中是否展示
 
 ### https://github.com/wzpan/hexo-generator-search
-search:
-  path: search.xml
-  field: post
-  content: true
-  template: ./search.xml
+# search: 
+#   path: search.xml
+#   field: post
+#   content: true
+#   template: ./search.xml

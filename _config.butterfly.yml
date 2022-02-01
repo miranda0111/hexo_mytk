@@ -925,7 +925,7 @@ CDN:
   # Live2D
 ## https://github.com/EYHN/hexo-helper-live2d
 live2d:
-  enable: false #开关插件版看板娘
+  enable: false #开关插件版看板娘1
   scriptFrom: local # 默认
   pluginRootPath: live2dw/ # 插件在站点上的根目录(相对路径)
   pluginJsPath: lib/ # 脚本文件相对与插件根目录路径

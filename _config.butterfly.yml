@@ -11,7 +11,7 @@ menu:
   #   音乐: /music/ || fas fa-music
   #   电影: /movies/ || fas fa-video
    友情链接: /link/ || fas fa-link
-   留言: /comments/ 
+   留言版: /comments/ || iconfont icon-icon-test
   # 关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
@@ -40,7 +40,6 @@ social:
    iconfont  icon-email: 591944012@qq.com || Email
    iconfont  icon-github-alt: https://github.com/miranda0111 || Github
    iconfont  icon-icon_bilibili: https://space.bilibili.com/398055394?spm_id_from=333.1007.0.0 || bilibili
-###https://fontawesome.com/找寻图标
 #https://blog.csdn.net/u012208219/article/details/106883012/
 #https://www.jianshu.com/p/fcc1f37153bb
 #iconfont图标需要在 inject
@@ -828,6 +827,7 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="/css/social.css">
+    - <link rel="stylesheet" href="/css/menu.css">
    # - <link rel="stylesheet" href="//at.alicdn.com/t/font_3167328_21phwq5130t.css">
     # - <link rel="stylesheet" href="/xxx.css">
     

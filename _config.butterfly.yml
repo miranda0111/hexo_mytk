@@ -231,8 +231,8 @@ noticeOutdate:
   style: flat # style: simple/flat
   limit_day: 0 # When will it be shown
   position: top # position: top/bottom
-  message_prev: It has been
-  message_next: days since the last update, the content of the article may be outdated.
+  message_prev: 这篇文章已经
+  message_next: 天没有更新了，可能已经过时了，请甄别。
 
 # Share System (分享功能)
 # --------------------------------------
@@ -400,7 +400,7 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2021
+    since: 2022
   custom_text: 欢迎来到打工人的世界！
   copyright: true # Copyright of theme and framework
 

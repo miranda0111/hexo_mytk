@@ -11,6 +11,7 @@ menu:
   #   音乐: /music/ || fas fa-music
   #   电影: /movies/ || fas fa-video
    友情链接: /link/ || fas fa-link
+   留言: /comments/ 
   # 关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)

@@ -974,7 +974,7 @@ footer_beautify:
 # see https://akilar.top/posts/58900a8/
 envelope_comment:
   enable: true #开关
-  cover: https://ae01.alicdn.com/kf/U5bb04af32be544c4b41206d9a42fcacfd.jpg #信笺封面图
+  cover: https://ae05.alicdn.com/kf/H77e6aec8faac4611a07bddd96ca4425di.png #信笺封面图
   message: #信笺内容，支持多行
     - 有什么想问的？
     - 有什么想说的？

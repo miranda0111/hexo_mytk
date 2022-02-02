@@ -974,6 +974,8 @@ footer_beautify:
 # envelope_comment
 # see https://akilar.top/posts/58900a8/
 # https://akilar.top/posts/e2d3c450/
+# \themes\butterfly\source\css\_layout\commentsbar.styl 
+# bottom 106px 修改位置
 envelope_comment:
   enable: true #开关
   cover: https://ae05.alicdn.com/kf/H77e6aec8faac4611a07bddd96ca4425di.png #信笺封面图
@@ -983,4 +985,4 @@ envelope_comment:
     - 有什么想吐槽的？
     - 哪怕是有什么想吃的，都可以告诉我哦~
   bottom: 自动书记人偶竭诚为您服务！ #信笺结束语，只能单行
-  height: #调整信笺划出高度，默认1050px
+  height: 950px #调整信笺划出高度，默认1050px

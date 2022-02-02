@@ -1544,6 +1544,13 @@
     "mv" "~2"
     "safe-json-stringify" "~1"
 
+"hexo-butterfly-footer-beautify@^1.0.6":
+  "integrity" "sha512-zGA0b1BgL0CTmh3mKOvSh5TY6o3HW8tt/Xnhr+8g+I0MrzDcaBUXx9Ci2jyZRIctgFHS/0pcWd/Ro0Db2py42w=="
+  "resolved" "https://registry.npmjs.org/hexo-butterfly-footer-beautify/-/hexo-butterfly-footer-beautify-1.0.6.tgz"
+  "version" "1.0.6"
+  dependencies:
+    "pug" "^3.0.0"
+
 "hexo-cli@^4.0.0":
   "integrity" "sha512-NJQYKnD41KUlNZzEyi8wDzPeGhrjwLLTa05dtkwq+lJch+j9idZTh4dgn3w/82o6Q/zygn+ibO1XvihMfFdSfw=="
   "resolved" "https://registry.npmjs.org/hexo-cli/-/hexo-cli-4.2.0.tgz"
@@ -3451,7 +3458,7 @@
   "resolved" "https://registry.npmjs.org/pug-walk/-/pug-walk-2.0.0.tgz"
   "version" "2.0.0"
 
-"pug@^3.0.2":
+"pug@^3.0.0", "pug@^3.0.2":
   "integrity" "sha512-bp0I/hiK1D1vChHh6EfDxtndHji55XP/ZJKwsRqrz6lRia6ZC2OZbdAymlxdVFwd1L70ebrVJw4/eZ79skrIaw=="
   "resolved" "https://registry.npmjs.org/pug/-/pug-3.0.2.tgz"
   "version" "3.0.2"

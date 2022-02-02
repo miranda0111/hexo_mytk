@@ -8,6 +8,7 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "hexo": "^5.3.0",
+    "hexo-butterfly-footer-beautify": "^1.0.6",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",

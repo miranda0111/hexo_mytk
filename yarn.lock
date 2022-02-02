@@ -1544,6 +1544,13 @@
     "mv" "~2"
     "safe-json-stringify" "~1"
 
+"hexo-butterfly-envelope@^1.0.13":
+  "integrity" "sha512-y6fqBI8xnhl1LWpOOySeKIsYYCjgJUDcixV259ShsKZ0d+lILvRdRliVdDkP7g3dX0IcBMai9wkDwTdQb45g5g=="
+  "resolved" "https://registry.npmjs.org/hexo-butterfly-envelope/-/hexo-butterfly-envelope-1.0.13.tgz"
+  "version" "1.0.13"
+  dependencies:
+    "pug" "^3.0.0"
+
 "hexo-butterfly-footer-beautify@^1.0.6":
   "integrity" "sha512-zGA0b1BgL0CTmh3mKOvSh5TY6o3HW8tt/Xnhr+8g+I0MrzDcaBUXx9Ci2jyZRIctgFHS/0pcWd/Ro0Db2py42w=="
   "resolved" "https://registry.npmjs.org/hexo-butterfly-footer-beautify/-/hexo-butterfly-footer-beautify-1.0.6.tgz"

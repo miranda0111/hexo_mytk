@@ -929,7 +929,7 @@ CDN:
 footer_beautify:
   enable:
     timer: true # 计时器开关
-    bdage: true # 徽标开关
+    bdage: false # 徽标开关
   priority: 5 #过滤器优先权
   enable_page: all # 应用页面
   exclude: #屏蔽页面
@@ -943,7 +943,7 @@ footer_beautify:
   runtime_js: https://unpkg.zhimg.com/hexo-butterfly-footer-beautify@1.0.0/lib/runtime.js
   runtime_css: https://unpkg.zhimg.com/hexo-butterfly-footer-beautify@1.0.0/lib/runtime.css
   # 徽标部分配置项
-  swiperpara: 3 #若非0，则开启轮播功能，每行徽标个数
+  swiperpara: 0 #若非0，则开启轮播功能，每行徽标个数
   bdageitem:
     - link: https://hexo.io/ #徽标指向网站链接
       shields: https://img.shields.io/badge/Frame-Hexo-blue?style=flat&logo=hexo #徽标API

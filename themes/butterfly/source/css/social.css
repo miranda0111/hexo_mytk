@@ -23,8 +23,16 @@
 
 .icon-email:before {
   content: "\e63f";
+    /* 修改颜色 */
+ /* color: blue;*/
+  /* 修改大小 */
+  font-size: 32px;
 }
 
 .icon-icon_bilibili:before {
   content: "\e600";
+    /* 修改颜色 */
+ /* color: blue;*/
+  /* 修改大小 */
+  font-size: 32px;
 }

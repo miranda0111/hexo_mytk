@@ -982,7 +982,7 @@ envelope_comment:
     - 哪怕是有什么想吃的，都可以告诉我哦~
   bottom: 自动书记人偶竭诚为您服务！ #信笺结束语，只能单行
   height: #调整信笺划出高度，默认1050px
-  path: #【可选】comments 的路径名称。默认为 comments，生成的页面为 comments/index.html
+  path: source/comments/index.md #【可选】comments 的路径名称。默认为 comments，生成的页面为 comments/index.html
   front_matter: #【可选】comments页面的 front_matter 配置
     title: 留言板
     comments: true

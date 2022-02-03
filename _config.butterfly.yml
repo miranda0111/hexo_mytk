@@ -802,7 +802,7 @@ pangu:
 lazyload:
   enable: true
   field: site # site/post
-  placeholder: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/hexo-theme-butterfly-docs-double-comments.png
+  placeholder: /img/lazyload.gif
   blur: true
 
 # PWA

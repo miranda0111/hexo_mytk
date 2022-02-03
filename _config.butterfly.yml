@@ -625,7 +625,7 @@ aside:
   position: right # left or right
   card_author:
     enable: true
-    description:
+    description: 心中有佛，怕渠碌柒
     button:
       enable: true
       icon: fab fa-github
@@ -636,7 +636,7 @@ aside:
     content: This is my Blog😁😁😀
   card_recent_post:
     enable: true
-    limit: 5 # if set 0 will show all
+    limit: 6 # if set 0 will show all
     sort: date # date or updated
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
@@ -719,8 +719,8 @@ darkmode:
 # Don't repeat 不要重複
 rightside_item_order:
   enable: true
-  hide:  hideAside,toc,chat,comment
-  show:  readmode,darkmode,translate
+  hide:  readmode,hideAside,toc,chat,comment
+  show:  darkmode,translate
 
 # Lightbox (圖片大圖查看模式)
 # --------------------------------------

@@ -66,3 +66,8 @@ aside:
  - 打开gitee可以见到文件夹生成
     ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/PicGo教程/20220203210239.png)
  - 部署成功！！！
+
+### PicGo注意事项
+
+ - 当图片过大时会这样显示，此时图片无法加载和预览，推荐是使用`即刻图床`加载大图片
+  ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/GDUT-EE/20220203215437.png)

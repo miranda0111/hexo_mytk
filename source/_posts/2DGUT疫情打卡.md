@@ -82,5 +82,5 @@ aside:
 
 ## 其他
 
-- 不懂得使用请加q:[591944012](https://im.qq.com/index)
+- 不懂得使用请加b站私聊:[398055394](https://space.bilibili.com/398055394?spm_id_from=333.1007.0.0)
 - 可以私聊本人代为挂载。

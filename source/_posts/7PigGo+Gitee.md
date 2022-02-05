@@ -31,6 +31,7 @@ aside:
  - [nodejs](http://nodejs.cn/)
  - [PicGo--Github](https://github.com/Molunerfinn/PicGo) or [PicGo官网](https://molunerfinn.com/PicGo/)
  - [Gitee帐号](https://gitee.com/)
+ - [PicGo安卓版](https://github.com/PicGo/flutter-picgo)
 
 ### 建立gitee图床仓库
 

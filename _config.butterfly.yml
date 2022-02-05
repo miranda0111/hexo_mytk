@@ -181,9 +181,9 @@ anchor: false
 # toc (目錄)
 toc:
   post: false
-  page: false
+  page: true
   number: false
-  expand: false
+  expand: true
   style_simple: false # for post
 
 post_copyright:

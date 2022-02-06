@@ -456,6 +456,8 @@ site_verification:
   #   content: xxxxxxx
   - name: baidu-site-verification
     content: code-YUo7InWtJJ
+  - name: google-site-verification
+    content: qKRHH3bzwoIXCZd9WZssUdu-AwEQ5j2Y-RQL_hmcXDg
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------

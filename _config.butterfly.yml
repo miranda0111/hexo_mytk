@@ -341,9 +341,9 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https://twikoo-mu-vert.vercel.app/
   region:
-  visitor: false
+  visitor: true
   option:
 
 # Giscus
@@ -861,10 +861,6 @@ CDN:
   disqusjs_css:
   utterances:
   twikoo:
-    envId: https://twikoo-mu-vert.vercel.app/
-    region:
-    visitor: true
-    option:
   waline:
   giscus:
 

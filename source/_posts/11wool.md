@@ -6,8 +6,8 @@ tags: 羊毛
 categories: 脚本
 description: 
 keywords:
-top_img: https://lf9-survey.bytetos.com/obj/web.business.image/202201205d0d7b5e576ee603497ab6f3
-cover: https://lf9-survey.bytetos.com/obj/web.business.image/202201205d0d7b5e576ee603497ab6f3
+top_img: https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202201549248.png
+cover: https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202201549248.png
 sticky:
 toc: true
 toc_number: 

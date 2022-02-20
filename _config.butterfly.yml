@@ -443,8 +443,8 @@ google_adsense:
 # Insert ads manually (手動插入廣告)
 ad:
   index: <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-client="ca-pub-9037033033459244 data-ad-slot="9580931533"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script>
-  aside:
-  post:
+  aside: <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-client="ca-pub-9037033033459244 data-ad-slot="9580931533"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script>
+  post: <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-client="ca-pub-9037033033459244 data-ad-slot="9580931533"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script>
 
 # Verification (站長驗證)
 # --------------------------------------

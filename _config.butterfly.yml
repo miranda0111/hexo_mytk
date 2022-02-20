@@ -441,10 +441,10 @@ google_adsense:
   enable_page_level_ads: true
 
 # Insert ads manually (手動插入廣告)
-# ad:
-#   index:
-#   aside:
-#   post:
+ad:
+  index: <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="xxxxxxxxxxxx" data-ad-client="ca-pub-xxxxxxxxxx" data-ad-slot="xxxxxxxxxx"></ins><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9037033033459244" crossorigin="anonymous"></script>
+  aside:
+  post:
 
 # Verification (站長驗證)
 # --------------------------------------

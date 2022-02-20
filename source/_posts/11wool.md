@@ -33,5 +33,5 @@ aside:
 ## 青龙面板搭建
 
 1. 连接vps 
-2. 输入`curl -sSL https://get.daocloud.io/docker | sh`
+2. 输入```curl -sSL https://get.daocloud.io/docker | sh]```
    或者`curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun`

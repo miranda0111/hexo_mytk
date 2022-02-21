@@ -10,7 +10,7 @@ top_img: https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202
 cover: https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211141248.png
 sticky:
 toc: true
-toc_number: 
+toc_number: true
 toc_style_simple: 
 copyright: true
 copyright_author:
@@ -40,7 +40,7 @@ aside:
 ## 脚本配置
 
  - Debian11系统使用puppeteer来实现自动挂机刷积分
- 1. 通过nvm安装Node.js
+ ### 通过nvm安装Node.js
     ```
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
     ```
@@ -56,7 +56,7 @@ aside:
     ```
     node --version
     ```
- 2. 安装Chrome
+ ### 安装Chrome
     下载安装包
     32位：
     ```
@@ -87,16 +87,16 @@ aside:
     #查看Chrome版本信息：
     /opt/google/chrome/chrome --version
     ```
- 3. 安装forever
+ ### 安装forever
     ```
     npm install forever -g
     ```
- 4. fork仓库
+ ### fork仓库
     `https://github.com/dxxzst/alexamaster-autosurf.git`修改`/lib/pub.js`文件中的`surURL`为你的`URL`
     
     ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211225445.png)
 
- 5. 拉取文件
+ ### 拉取文件
     ```
     #注意是自己的仓库
     git clone https://github.com/miranda0111/alexamaster-autosurf.git
@@ -104,11 +104,11 @@ aside:
     #安装资源
     npm install
     ```
- 6. 启动程序
+ ### 启动程序
     ```
     node index.js
     ```
- 7. 使用forever命令让它在后台运行（在程序的目录下执行）
+ ### 使用forever命令让它在后台运行（在程序的目录下执行）
     ```
     #启动
     forever start index.js

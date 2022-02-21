@@ -126,3 +126,9 @@ aside:
 ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211239239.png)
  - 注册Alexamaster时挂了美国的代理，直接注册登录后，下次登录不能换其他国家代理，不然会给你这个
 ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211243049.png)
+
+## 参考文章
+>https://yangwenqing.com/archives/749/
+https://linux265.com/news/3373.html
+https://www.jianshu.com/p/6d7323bfaa0c
+https://last2win.com/2020/02/07/linux-chrome-bug/

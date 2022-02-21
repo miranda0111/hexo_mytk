@@ -6,8 +6,8 @@ tags:
 categories: 脚本
 description: 本教程为聚合教程，保留原网站的截图和源码
 keywords:
-top_img: https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/xxqg/202202211954878.png
-cover: https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/xxqg/202202211954878.png
+top_img: https://github.com/miranda0111/hexo-mytk-pic-go/raw/master/xxqg/202202211954878.png
+cover: https://github.com/miranda0111/hexo-mytk-pic-go/raw/master/xxqg/202202211954878.png
 sticky:
 toc: true
 toc_number: true

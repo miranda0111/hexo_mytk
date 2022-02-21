@@ -6,8 +6,8 @@ tags: 羊毛
 categories: 脚本
 description: 
 keywords:
-top_img: https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202201549248.png
-cover: https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202201558810.png
+top_img: https://github.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202201549248.png
+cover: https://github.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202201558810.png
 sticky:
 toc: true
 toc_number: 

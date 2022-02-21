@@ -1,5 +1,5 @@
 ---
-title: PicGo+G2itee部署免费图床教程
+title: PicGo+Gitee部署免费图床教程
 date: 2022-02-03 22:40:00
 updated: 2022-02-03 22:40:00
 tags: 图床

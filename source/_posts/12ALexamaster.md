@@ -6,8 +6,8 @@ tags: 羊毛
 categories: 脚本
 description: 这个网站非常坑，不建议用来作为薅羊毛提现的网站，不过它可以发布浏览网页的任务，从而为站点获取访问量。
 keywords:
-top_img: https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211141248.png
-cover: https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211141248.png
+top_img: https://github.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211141248.png
+cover: https://github.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211141248.png
 sticky:
 toc: true
 toc_number: true

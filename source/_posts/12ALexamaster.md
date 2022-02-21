@@ -32,9 +32,9 @@ aside:
 ## alexamaster简要说明
 ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211146271.png)
  - 不要企图能获取1\$的报酬，到了1\$就会封号
- - Good Votes在![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211148002.png)处获取
- - ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211148614.png)这里就可以添加网站获取流量了
- - ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211149082.png)这里是获取挂机链接
+ - Good Votes在`Earn Points`处获取
+ - `Get Visitors`这里就可以添加网站获取流量了
+ - `Auto Surf`这里是获取挂机链接
 >例如：`https://www.alexamaster.net/ads/autosurf/175410`
 
 ## 脚本配置

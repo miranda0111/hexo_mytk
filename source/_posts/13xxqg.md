@@ -24,7 +24,7 @@ highlight_shrink:
 aside:
 ---
 
-### 本地浏览器使用，win10或者安卓都可以使用（比较推荐）
+### 本地浏览器使用，win10或者安卓都可以使用，每天稳定45分（比较推荐）
 
  #### 仓库链接：`https://github.com/ttglad/learning.git`
  #### win10，chrome内核浏览器使用方法
@@ -51,3 +51,24 @@ aside:
  ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/xxqg/202202211949048.jpg)
  - 点击右上角设置，滑动至最底，点击学习，即可使用
  ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/xxqg/202202211953161.jpg)
+
+### 仅安卓手机每天稳定满分
+
+ #### 仓库链接：`https://github.com/dundunnp/hamibot-auto_xuexiqiangguo.git`
+ - 鉴于该仓库教程比较充分，不在赘述
+ - 介绍百度智能云ocr申请教程
+ - 进入网站注册并登录[https://cloud.baidu.com/](https://cloud.baidu.com/)
+ - 右上角点击[管理控制台](https://console.bce.baidu.com/)，搜索[文字识别](https://console.bce.baidu.com/ai/#/ai/ocr/overview/index)
+ - 把免费资源给领取一下，然后点击创建应用
+ ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/xxqg/202202212010714.png)
+ - 这样就成功获取`API key`和`Secret Key`
+ ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/xxqg/202202212011637.png)
+
+### 服务器全自动使用（不推荐）
+
+ #### 仓库链接：`https://github.com/TechXueXi/TechXueXi.git`
+
+### 特别鸣谢:
+ * [@ttglad](https://github.com/ttglad/learning.git)「浏览器插件」
+ * [@dundunnp](https://github.com/dundunnp/hamibot-auto_xuexiqiangguo.git)「安卓端满分答题」
+ * [@TechXueXi](https://github.com/TechXueXi/TechXueXi.git)「docker端」

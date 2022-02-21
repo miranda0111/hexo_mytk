@@ -1,7 +1,7 @@
 ---
 title: 薅小羊毛教程之alexamaster
-date: 2022-02-21 11:50:00
-updated: 
+date: 2022-02-21 11:10:00
+updated: 2022-02-21 12:00:00
 tags: 羊毛
 categories: 脚本
 description: 这个网站非常坑，不建议用来作为薅羊毛提现的网站，不过它可以发布浏览网页的任务，从而为站点获取访问量。

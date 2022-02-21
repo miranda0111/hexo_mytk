@@ -411,7 +411,7 @@ footer:
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics:
+baidu_analytics: 0d41c6e73ea566a994b12fa5d7e51410
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
@@ -419,7 +419,7 @@ google_analytics:
 
 # CNZZ Analytics
 # https://www.umeng.com/
-cnzz_analytics:
+cnzz_analytics: 1280881924
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/

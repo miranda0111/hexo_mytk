@@ -123,7 +123,7 @@ aside:
 ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211232816.png)
  - 网站访问量可以设置一天15次
 ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211234438.png)
- - 千万不要超过30000points，不要让网站发现你有能力提现，不要会被block
+ - 千万不要超过30000points，不要让网站发现你有能力提现，不然会被block
 ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211239239.png)
  - 注册Alexamaster时挂了美国的代理，直接注册登录后，下次登录不能换其他国家代理，不然会给你这个
 ![](https://gitee.com/miranda0111/hexo-mytk-pic-go/raw/master/羊毛/202202211243049.png)
